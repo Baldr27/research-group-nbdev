@@ -1,0 +1,140 @@
+.cell {
+  margin-bottom: 1rem;
+}
+
+.cell > .sourceCode {
+  margin-bottom: 0;
+}
+
+.cell-output > pre {
+  margin-bottom: 0;
+}
+
+.cell-output > pre, .cell-output > .sourceCode > pre, .cell-output-stdout > pre {
+  margin-left: 0.8rem;
+  margin-top: 0;
+  background: none;
+  border-left: 2px solid lightsalmon;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.cell-output > .sourceCode {
+  border: none;
+}
+
+.cell-output > .sourceCode {
+  background: none;
+  margin-top: 0;
+}
+
+div.description {
+  padding-left: 2px;
+  padding-top: 5px;
+  font-style: italic;
+  font-size: 135%;
+  opacity: 70%;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* Ensure the navbar spans the full width and aligns items */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+/* Use flexbox for the container to fill all available space */
+.navbar-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%; /* Ensure it takes up the full width */
+}
+
+/* Center the navbar items */
+.navbar-nav {
+  display: flex;
+  justify-content: center;
+  flex-grow: 1; /* Fills the remaining space */
+  padding: 0;
+  margin: 0;
+}
+
+/* Optional: Control padding/margin for navbar items */
+.navbar-nav .nav-item {
+  padding: 0 10px;
+}
+
+/* Optional: Add some spacing to nav links */
+.navbar-nav .nav-link {
+  display: block;
+  padding: 10px 15px;
+}
+
+nav a:hover {
+  color: #007bff;
+  text-decoration: underline;
+}
+
+/* Adjust logo container to be responsive */
+.navbar-brand-container {
+  display: flex;
+  align-items: center;
+}
+
+/* Optionally, ensure the search button stays fixed on the right */
+#quarto-search {
+  margin-left: auto; /* This ensures the search button stays on the right */
+} 
+
+
+.member {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.member-image {
+  width: 250px; /* Adjust size as needed */
+  height: 250px;
+  border-radius: 50%; /* Makes the image circular */
+  border: solid 1px black;
+  object-fit: cover; /* Ensures the image fits without distortion */
+  display: block; /* Ensures the image takes up its own line */
+  margin: 0 auto 10px; /* Centers the image and adds space below */
+}
+
+.member a {
+  display: block; /* Ensures the name appears below the image */
+  font-size: 16px; /* Adjust font size */
+  font-weight: bold; /* Make names bold */
+  text-decoration: none; /* Removes underline */
+  color: #333; /* Adjust color */
+}
+
+.member a:hover {
+  color: #007bff; /* Changes color on hover */
+  text-decoration: underline; /* Adds underline on hover */
+}
+
+.member-grid {
+  display: flex;
+  flex-wrap: wrap; /* Allows items to wrap onto the next row */
+  gap: 20px; /* Adds spacing between items */
+  justify-content: center; /* Centers the grid as a whole */
+}
+
+.profile-image {
+  width: 250px; /* Adjust size as needed */
+  height: 250px;
+  border: solid 1px black;
+  object-fit: cover; /* Ensures the image fits without distortion */
+  display: block; /* Ensures the image takes up its own line */
+  margin: 0 auto 10px; /* Centers the image and adds space below */
+  text-align: center;
+}

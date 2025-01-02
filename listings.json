@@ -1,0 +1,25 @@
+[
+  {
+    "listing": "/members/shanemcintosh.html",
+    "items": [
+      "/publications/p9.html",
+      "/publications/publication.html",
+      "/publications/p6.html"
+    ]
+  },
+  {
+    "listing": "/publications.html",
+    "items": [
+      "/publications/p3.html",
+      "/publications/p7.html",
+      "/publications/p2.html",
+      "/publications/p5.html",
+      "/publications/p9.html",
+      "/publications/publication.html",
+      "/publications/p1.html",
+      "/publications/p6.html",
+      "/publications/p8.html",
+      "/publications/p4.html"
+    ]
+  }
+]

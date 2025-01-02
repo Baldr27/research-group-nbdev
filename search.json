@@ -1,0 +1,142 @@
+[
+  {
+    "objectID": "members/shanemcintosh.html",
+    "href": "members/shanemcintosh.html",
+    "title": "Shane McIntosh",
+    "section": "",
+    "text": "Shane McIntosh\n\n\n\n\nContact Information:\n\nEmail: member@example.com\n\nAffiliation: Research Group\n\n\n\n\n\n\n\n\n\n\nKnowledge Loss in Software Evolution\n\n\nAuthors: Shane McIntosh,Farida El Zanaty\n\n\nVenue: ESEM 2016\n\n\nPreprint: PDF\n\n\nRelated Tags: ESEM,2016,Software Ecosystems\n\n\n\n\nMitigating the Uncertainty and Imprecision of Log-Based Code Coverage Without Requiring Additional Logging Statements\n\n\nAuthors: Shane McIntosh,Filipe R. Cogo\n\n\nVenue: IEEE Transactions on Software Engineering, pp. To appear, 2024\n\n\nPreprint: PDF\n\n\nRelated Tags: TSE,2024,Software Logging\n\n\n\n\nSonification of Software Metrics for Code Review\n\n\nAuthors: Shane McIntosh,Mingyang Yin\n\n\nVenue: ICSME 2019\n\n\nPreprint: PDF\n\n\nRelated Tags: ICSME,2019,Software Evolution\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "bu_publications.html",
+    "href": "bu_publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "TOPIC:\n\nTag1\nTag2\nTag3\nTag4\n\n\nMEMBER:\n\nTag1\nTag2\nTag3\nTag4\n\n\nVENUE:\n\nTag1\nTag2\nTag3\nTag4\n\n\nYEAR:\n\nTag1\nTag2\nTag3\nTag4"
+  },
+  {
+    "objectID": "bu_publications.html#list-of-publications",
+    "href": "bu_publications.html#list-of-publications",
+    "title": "Publications",
+    "section": "List of Publications",
+    "text": "List of Publications\n\n\nMitigating the Uncertainty and Imprecision of Log-Based Code Coverage Without Requiring Additional Logging Statements\n\nAuthors: Shane McIntosh, Filipe R. Cogo  Venue: IEEE Transactions on Software Engineering, pp. To appear, 2024  Preprint: PDF  Related Tags: Tag1, Tag3\n\n\n\nTITLE VERY LONG\n\nAuthors: Shane McIntosh, Filipe R. Cogo  Venue: IEEE Transactions on Software Engineering, pp. To appear, 2024  Preprint: PDF  Related Tags: Tag2, Tag4"
+  },
+  {
+    "objectID": "publications/publication.html",
+    "href": "publications/publication.html",
+    "title": "Mitigating the Uncertainty and Imprecision of Log-Based Code Coverage Without Requiring Additional Logging Statements",
+    "section": "",
+    "text": "Authors: Shane McIntosh, Filipe R. Cogo\nVenue: IEEE Transactions on Software Engineering, pp. To appear, 2024\nRelated Tags: TSE, 2024\nPre-print: PDF\nAbstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nBibTeX:\n@article{example,\n  title = Mitigating the Uncertainty and Imprecision of Log-Based Code Coverage Without Requiring Additional Logging Statements,\n  author = Shane McIntosh and Filipe R. Cogo,\n  journal = IEEE Transactions on Software Engineering, pp. To appear, 2024,\n  year = Tag1,\n}"
+  },
+  {
+    "objectID": "publications/p4.html",
+    "href": "publications/p4.html",
+    "title": "Understanding Anti-patterns in Software Development",
+    "section": "",
+    "text": "Authors: Mahboob Alfadel, Rungroj Maipradit\nVenue: ASE 2021\nRelated Tags: ASE, 2021\nPre-print: PDF\nAbstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua…\nBibTeX:\n@article{example,\n  title = Understanding Anti-patterns in Software Development,\n  author = Mahboob Alfadel and Rungroj Maipradit,\n  journal = ASE 2021,\n  year = anti-patterns,\n}"
+  },
+  {
+    "objectID": "publications/p5.html",
+    "href": "publications/p5.html",
+    "title": "Improving Software Build Performance with Automated Tools",
+    "section": "",
+    "text": "Authors: Faizan Khan, Keheliya Gallaba\nVenue: TSE 2020\nRelated Tags: TSE, 2020\nPre-print: PDF\nAbstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua…\nBibTeX:\n@article{example,\n  title = Improving Software Build Performance with Automated Tools,\n  author = Faizan Khan and Keheliya Gallaba,\n  journal = TSE 2020,\n  year = build performance,\n}"
+  },
+  {
+    "objectID": "publications/p6.html",
+    "href": "publications/p6.html",
+    "title": "Sonification of Software Metrics for Code Review",
+    "section": "",
+    "text": "Authors: Shane McIntosh, Mingyang Yin\nVenue: ICSME 2019\nRelated Tags: ICSME, 2019\nPre-print: PDF\nAbstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua…\nBibTeX:\n@article{example,\n  title = Sonification of Software Metrics for Code Review,\n  author = Shane McIntosh and Mingyang Yin,\n  journal = ICSME 2019,\n  year = sonification,\n}"
+  },
+  {
+    "objectID": "publications/p8.html",
+    "href": "publications/p8.html",
+    "title": "Static Analysis Tools for Build System Optimization",
+    "section": "",
+    "text": "Authors: Faizan Khan, Maxime Lamothe\nVenue: APSEC 2017\nRelated Tags: APSEC, 2017\nPre-print: PDF\nAbstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua…\nBibTeX:\n@article{example,\n  title = Static Analysis Tools for Build System Optimization,\n  author = Faizan Khan and Maxime Lamothe,\n  journal = APSEC 2017,\n  year = static analysis,\n}"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Research Group",
+    "section": "",
+    "text": "Welcome to Our Research Group\nHere is some information about our research group, its goals, and ongoing projects."
+  },
+  {
+    "objectID": "publication_template.html",
+    "href": "publication_template.html",
+    "title": "Publication Template",
+    "section": "",
+    "text": "{{ title }}\n\nAuthors: {{ authors | join(“,”) }}  Venue: {{ venue }}  Preprint: PDF  Related Tags: {{ tags | map(tag =&gt; “” + tag + “”) | join(“,”) }}"
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "foo\n\n foo ()"
+  },
+  {
+    "objectID": "publications/p3.html",
+    "href": "publications/p3.html",
+    "title": "Analyzing Resource Waste in Large-Scale Software Ecosystems",
+    "section": "",
+    "text": "Authors: Keheliya Gallaba, Mahboob Alfadel\nVenue: EMSE 2022\nRelated Tags: EMSE, 2022\nPre-print: PDF\nAbstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua…\nBibTeX:\n@article{example,\n  title = Analyzing Resource Waste in Large-Scale Software Ecosystems,\n  author = Keheliya Gallaba and Mahboob Alfadel,\n  journal = EMSE 2022,\n  year = resource waste,\n}"
+  },
+  {
+    "objectID": "publications/p1.html",
+    "href": "publications/p1.html",
+    "title": "Predicting Build Failures in Modern Software Systems",
+    "section": "",
+    "text": "Authors: Toshiki Hirao, Farshad Kazemi\nVenue: ICSE 2024\nRelated Tags: ICSE, 2024\nPre-print: PDF\nAbstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua…\nBibTeX:\n@article{example,\n  title = Predicting Build Failures in Modern Software Systems,\n  author = Toshiki Hirao and Farshad Kazemi,\n  journal = ICSE 2024,\n  year = build breakage,\n}"
+  },
+  {
+    "objectID": "publications/p9.html",
+    "href": "publications/p9.html",
+    "title": "Knowledge Loss in Software Evolution",
+    "section": "",
+    "text": "Authors: Shane McIntosh, Farida El Zanaty\nVenue: ESEM 2016\nRelated Tags: ESEM, 2016\nPre-print: PDF\nAbstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed\nBibTeX:\n@article{example,\n  title = Knowledge Loss in Software Evolution,\n  author = Shane McIntosh and Farida El Zanaty,\n  journal = ESEM 2016,\n  year = knowledge loss,\n}"
+  },
+  {
+    "objectID": "publications/p2.html",
+    "href": "publications/p2.html",
+    "title": "Improving Continuous Integration with Static Analysis Tools",
+    "section": "",
+    "text": "Authors: Faizan Khan, Maxime Lamothe\nVenue: FSE 2023\nRelated Tags: FSE, 2023\nPre-print: PDF\nAbstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua…\nBibTeX:\n@article{example,\n  title = Improving Continuous Integration with Static Analysis Tools,\n  author = Faizan Khan and Maxime Lamothe,\n  journal = FSE 2023,\n  year = continuous integration,\n}"
+  },
+  {
+    "objectID": "publications/p7.html",
+    "href": "publications/p7.html",
+    "title": "Flaky Tests in Software Development: Causes and Remedies",
+    "section": "",
+    "text": "Authors: Toshiki Hirao, Rungroj Maipradit\nVenue: MSR 2018\nRelated Tags: MSR, 2018\nPre-print: PDF\nAbstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua…\nBibTeX:\n@article{example,\n  title = Flaky Tests in Software Development: Causes and Remedies,\n  author = Toshiki Hirao and Rungroj Maipradit,\n  journal = MSR 2018,\n  year = flaky tests,\n}"
+  },
+  {
+    "objectID": "members.html",
+    "href": "members.html",
+    "title": "Members",
+    "section": "",
+    "text": "Shane McIntosh Researcher\n\n\n Shane McIntosh Alumni\n\n\n Shane McIntosh Masters Student\n\n\n Shane McIntosh\n\n\n Shane McIntosh\n\n\n Shane McIntosh\n\n\n Shane McIntosh\n\n\n Shane McIntosh\n\n\n Shane McIntosh"
+  },
+  {
+    "objectID": "members.html#current-members",
+    "href": "members.html#current-members",
+    "title": "Members",
+    "section": "",
+    "text": "Shane McIntosh Researcher\n\n\n Shane McIntosh Alumni\n\n\n Shane McIntosh Masters Student\n\n\n Shane McIntosh\n\n\n Shane McIntosh\n\n\n Shane McIntosh\n\n\n Shane McIntosh\n\n\n Shane McIntosh\n\n\n Shane McIntosh"
+  },
+  {
+    "objectID": "members.html#former-members",
+    "href": "members.html#former-members",
+    "title": "Members",
+    "section": "Former Members",
+    "text": "Former Members\n\n\n Shane McIntosh\n\n\n Shane McIntosh\n\n\n Shane McIntosh\n\n\n Shane McIntosh\n\n\n Shane McIntosh\n\n\n Shane McIntosh\n\n\n Shane McIntosh\n\n\n Shane McIntosh"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "List of Publications",
+    "section": "",
+    "text": "Analyzing Resource Waste in Large-Scale Software Ecosystems\n\n\nAuthors: Keheliya Gallaba,Mahboob Alfadel\n\n\nVenue: EMSE 2022\n\n\nPreprint: PDF\n\n\nRelated Tags: EMSE,2022,Software Logging\n\n\n\n\nFlaky Tests in Software Development: Causes and Remedies\n\n\nAuthors: Toshiki Hirao,Rungroj Maipradit\n\n\nVenue: MSR 2018\n\n\nPreprint: PDF\n\n\nRelated Tags: MSR,2018,Defect Prediction\n\n\n\n\nImproving Continuous Integration with Static Analysis Tools\n\n\nAuthors: Faizan Khan,Maxime Lamothe\n\n\nVenue: FSE 2023\n\n\nPreprint: PDF\n\n\nRelated Tags: FSE,2023,Software Evolution\n\n\n\n\nImproving Software Build Performance with Automated Tools\n\n\nAuthors: Faizan Khan,Keheliya Gallaba\n\n\nVenue: TSE 2020\n\n\nPreprint: PDF\n\n\nRelated Tags: TSE,2020,Build Systems\n\n\n\n\nKnowledge Loss in Software Evolution\n\n\nAuthors: Shane McIntosh,Farida El Zanaty\n\n\nVenue: ESEM 2016\n\n\nPreprint: PDF\n\n\nRelated Tags: ESEM,2016,Software Ecosystems\n\n\n\n\nMitigating the Uncertainty and Imprecision of Log-Based Code Coverage Without Requiring Additional Logging Statements\n\n\nAuthors: Shane McIntosh,Filipe R. Cogo\n\n\nVenue: IEEE Transactions on Software Engineering, pp. To appear, 2024\n\n\nPreprint: PDF\n\n\nRelated Tags: TSE,2024,Software Logging\n\n\n\n\nPredicting Build Failures in Modern Software Systems\n\n\nAuthors: Toshiki Hirao,Farshad Kazemi\n\n\nVenue: ICSE 2024\n\n\nPreprint: PDF\n\n\nRelated Tags: ICSE,2024,Software Quality\n\n\n\n\nSonification of Software Metrics for Code Review\n\n\nAuthors: Shane McIntosh,Mingyang Yin\n\n\nVenue: ICSME 2019\n\n\nPreprint: PDF\n\n\nRelated Tags: ICSME,2019,Software Evolution\n\n\n\n\nStatic Analysis Tools for Build System Optimization\n\n\nAuthors: Faizan Khan,Maxime Lamothe\n\n\nVenue: APSEC 2017\n\n\nPreprint: PDF\n\n\nRelated Tags: APSEC,2017,Software Logging\n\n\n\n\nUnderstanding Anti-patterns in Software Development\n\n\nAuthors: Mahboob Alfadel,Rungroj Maipradit\n\n\nVenue: ASE 2021\n\n\nPreprint: PDF\n\n\nRelated Tags: ASE,2021,Software Logging\n\n\n\n\nNo matching items"
+  }
+]
